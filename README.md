@@ -61,9 +61,6 @@ Future Improvements
 
 Integrate with a web-based interface for live deployment
 
-
----------------
-Author: Saif Khan
 Support multi-camera setups
 
 Add AI-based detection for improved accuracy in low-light conditions

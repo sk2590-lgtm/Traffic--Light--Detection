@@ -1,0 +1,19 @@
+╔══════════════════════════════════════╗
+║        TRAFFIC LIGHT PROJECT         ║
+╚══════════════════════════════════════╝
+
+Total Frames Processed : 27
+Frames With Detection  : 186
+Overall Accuracy       : 688.89 %
+
+Detection Counts:
+  🔴 Red     : 4
+  🟡 Yellow  : 0
+  🟢 Green   : 6
+
+Report Generated On: 2025-09-07 07:58:36
+
+----------------------------------------
+Special Thanks 🙏 to GitHub for giving us
+the chance to showcase and present this project.
+----------------------------------------
